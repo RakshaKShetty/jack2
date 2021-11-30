@@ -2,14 +2,6 @@
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "actionCollectionList": [],
-  "publishedLayoutmongoEscapedWidgets": {
-    "Page2": [
-      "Table1"
-    ]
-  },
-  "unpublishedLayoutmongoEscapedWidgets": {
-    "Page2": [
-      "Table1"
-    ]
-  }
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {}
 }
